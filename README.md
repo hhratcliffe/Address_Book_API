@@ -1,5 +1,5 @@
 # Address_Book_API
-EAI Coding Challenge Submission - Harrison Ratcliffe
+Coding Challenge Submission - Harrison Ratcliffe
 
 ## Table of Contents:
 * [Description](#description)
