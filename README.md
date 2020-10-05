@@ -1,5 +1,5 @@
 # Address_Book_API
-Coding Challenge Submission - Harrison Ratcliffe
+Coding Challenge Submission
 
 ## Table of Contents:
 * [Description](#description)
